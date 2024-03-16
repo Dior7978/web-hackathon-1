@@ -1,0 +1,35 @@
+h1.heading {
+    color: blue;
+    margin-bottom: 1rem;
+  }
+  p.info {
+    color: red;
+    font-size: 15px;
+    margin-bottom: 1rem;
+  }
+  .image-section {
+    border: 5px solid green;
+    width: 500px;
+    height: 500px;
+    margin: 10px;
+    margin-bottom: 1rem;
+  }
+  img {
+    width: 100%;
+    height: 100%;
+  }
+  .form-section {
+    margin-top: 1rem;
+  }
+  .form-group {
+    margin-bottom: 0.5rem;
+  }
+  .gender-group {
+    display: flex;  /* Display radio buttons inline */
+    align-items: center;  /* Align labels and radio buttons vertically */
+  }
+ .subjects-group{
+    width: auto;
+    
+    border: 5px;
+ }
